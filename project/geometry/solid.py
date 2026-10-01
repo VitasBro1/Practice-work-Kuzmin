@@ -1,5 +1,5 @@
 import math
-from .flat import circle_area
+from .flat_ import circle_area
 
 def sphere_volume(r): return 4 / 3 * math.pi * r ** 3
 def cube_volume(a): return a ** 3

@@ -1,4 +1,4 @@
-from .flat import cirle_area, triangle_area 
+from .flat_ import circle_area, triangle_area 
 from .solid import sphere_volume , cube_volume
 
 __all__ = ["circle_area", "triangle_area", "sphere_volume", "cube_volume"]

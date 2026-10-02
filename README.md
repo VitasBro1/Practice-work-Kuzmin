@@ -13,7 +13,6 @@ pip · venv · uv · sched
 
 Раздел 1. Модули и пакеты в Python
 
-Google Drive: https://drive.google.com/drive/folders/1g1HDYRmPmruj6qaW_ytkfHo0KRNQ6e0W?usp=sharing/
 
 
 Раздел 2. Модуль random
